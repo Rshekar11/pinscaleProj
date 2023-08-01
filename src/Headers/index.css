@@ -1,0 +1,25 @@
+.title1 {
+    font-family: Poppins;
+    color: #F89A23;
+    font-weight: 780;
+    line-height: normal;
+    font-size: 18px;
+    font-style: normal;
+}
+.sidebar-title1{
+    color: var(--primary-3, #2D60FF);
+font-size: 18px;
+font-style: normal;
+font-family: Inter;
+font-weight: 480;
+line-height: normal;
+}
+.avatar1{
+    color: #505887;
+/* Text sm / Semibold */
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 580;
+line-height: 20px; /* 142.857% */
+}
